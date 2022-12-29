@@ -1,2 +1,2 @@
 # Data-science
-Skill need to fuck up the life
+step - 1 : learn coding fundamentals
